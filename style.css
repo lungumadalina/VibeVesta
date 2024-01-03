@@ -1,0 +1,132 @@
+#carouselExampleIndicators {
+    overflow: hidden;
+}
+
+.carousel-indicators {
+    margin-bottom: 80px;
+    padding-bottom: 50px;
+}
+
+.carousel-inner {
+    width: 100%;
+}
+
+.carousel-item {
+    text-align: center;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 580px;
+    object-fit: cover;
+}
+
+.h1 {
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Andika', sans-serif;
+    margin-bottom: 40px;
+}
+
+.h2-sectiune1 {
+    justify-content: center;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: green;
+
+}
+
+.text-s1 {
+    padding-top: 20px;
+}
+
+h2 {
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.hr {
+    border-top: 8px solid black;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.equal-image {
+    object-fit: cover;
+    height: 500px;
+    width: 100%;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.lineup-container {
+    background-color: turquoise;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-family: Arial, sans-serif;
+}
+
+
+.lineup-artists-1 {
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.lineup-artists-2 {
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.lineup-artists-3 {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.lineup-title {
+    font-size: 40px;
+}
+
+.descriere-lineup{
+    justify-content: center;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Andika', sans-serif;
+    font-size: larger;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 30px;
+    display: flex;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.footer-section {
+    max-width: 300px;
+}
+
+.footer-section h3 {
+    border-bottom: 2px solid #fff;
+    padding-bottom: 5px;
+}
